@@ -1,8 +1,17 @@
-### Hi there 👋 I'm Sarthak
+<h1 align="center">Hi, I'm Sarthak Deshmukh 👋</h1>
 
-🎓 B.Tech in Electronics & Telecommunication, SPIT  
-💻 Full-stack Web Developer | React | Node.js | Firebase | MongoDB  
-📈 Solved 500+ DSA problems (LeetCode, Codeforces, HackerRank)  
-🚀 Currently building: AI Interview Web App | Blogging Platform  
-📫 Reach me at: sarthak.deshmukh22@spit.ac.in
+<p align="center">
+  🚀 Aspiring Software Developer | Full-Stack Web Developer | DSA Enthusiast <br>
+  🎓 B.Tech EXTC @ Sardar Patel Institute of Technology, Mumbai <br>
+  💼 Looking for SDE Internships | Passionate about building impactful products
+</p>
 
+---
+
+### 🔧 Tech Stack
+```html
+💻 Languages: JavaScript · Python · C++ · Java  
+🌐 Frontend: React.js · Tailwind CSS · HTML · CSS  
+🧠 Backend: Node.js · Express.js · MongoDB · Firebase · PostgreSQL · MySQL  
+🔌 APIs: Google OAuth · Firebase Auth · OpenAI · Vapi  
+🛠️ Tools: Git · GitHub · Postman · Vercel · Docker · VS Code · Figma  
