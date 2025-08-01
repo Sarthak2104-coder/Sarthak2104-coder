@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://github.com/Sarthak2104-coder/Sarthak2104-coder/blob/main/YouTube%20Banner%20-%20Sarthak%20Deshmukh.png" alt="Sarthak Deshmukh Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Sarthak Deshmukh 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Software Developer | Full-Stack Web Developer | DSA Enthusiast <br>
-  🎓 B.Tech EXTC @ Sardar Patel Institute of Technology, Mumbai <br>
-  💼 Looking for SDE Internships | Passionate about building impactful products
+  🚀 Full-Stack Web Developer | DSA Enthusiast | SDE Intern '26 Aspirant <br>
+  🎓 B.Tech EXTC @ SPIT, Mumbai · 500+ DSA Problems Solved  
 </p>
 
 ---
